@@ -1,0 +1,15 @@
+METODOLOGIAS TRADICIONALES
+
+Cascada
+Espiral
+Prototipo
+Incremental
+RAD
+
+METODOLOGIAS AGILES
+
+Extrema
+Kanban
+Scrum
+XP
+Lean FDD	
